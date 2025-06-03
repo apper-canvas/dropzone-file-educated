@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "presentation-deck.pdf",
+    "size": 2450000,
+    "type": "application/pdf",
+    "uploadDate": "2024-01-15T10:30:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "team-photo.jpg",
+    "size": 1850000,
+    "type": "image/jpeg",
+    "uploadDate": "2024-01-15T09:15:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "project-proposal.docx",
+    "size": 850000,
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "uploadDate": "2024-01-14T16:45:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "4",
+    "name": "demo-video.mp4",
+    "size": 15600000,
+    "type": "video/mp4",
+    "uploadDate": "2024-01-14T14:20:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "5",
+    "name": "financial-report.xlsx",
+    "size": 1200000,
+    "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "uploadDate": "2024-01-14T11:30:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "6",
+    "name": "website-mockup.png",
+    "size": 3200000,
+    "type": "image/png",
+    "uploadDate": "2024-01-13T15:10:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "7",
+    "name": "client-contract.pdf",
+    "size": 980000,
+    "type": "application/pdf",
+    "uploadDate": "2024-01-13T13:25:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "8",
+    "name": "marketing-assets.zip",
+    "size": 8500000,
+    "type": "application/zip",
+    "uploadDate": "2024-01-12T17:40:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1553484771-371a605b060b?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "9",
+    "name": "product-photos.jpg",
+    "size": 2750000,
+    "type": "image/jpeg",
+    "uploadDate": "2024-01-12T12:15:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "10",
+    "name": "user-manual.pdf",
+    "size": 1450000,
+    "type": "application/pdf",
+    "uploadDate": "2024-01-11T14:50:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "11",
+    "name": "brand-guidelines.ai",
+    "size": 5200000,
+    "type": "application/illustrator",
+    "uploadDate": "2024-01-11T10:30:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "12",
+    "name": "conference-slides.pptx",
+    "size": 4100000,
+    "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "uploadDate": "2024-01-10T16:20:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "13",
+    "name": "database-backup.sql",
+    "size": 12500000,
+    "type": "application/sql",
+    "uploadDate": "2024-01-10T09:00:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "14",
+    "name": "logo-variations.sketch",
+    "size": 3800000,
+    "type": "application/sketch",
+    "uploadDate": "2024-01-09T14:35:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "15",
+    "name": "audio-podcast.mp3",
+    "size": 6700000,
+    "type": "audio/mp3",
+    "uploadDate": "2024-01-09T11:45:00Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=400&h=300&fit=crop"
+  }
+]
