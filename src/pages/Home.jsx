@@ -145,11 +145,25 @@ transition={{ duration: 0.8, delay: 0.2 }}
             Upload, organize, and manage your files with our intuitive drag-and-drop interface. 
             Experience lightning-fast uploads with real-time progress tracking.
           </p>
+</motion.div>
+
+        {/* Storage Usage Indicator */}
+        <motion.div 
+          className="mb-12 md:mb-16 max-w-md mx-auto"
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, delay: 0.4 }}
+        >
+          <StorageIndicator 
+            used={storageStats.used}
+            total={storageStats.total}
+            loading={loading}
+            error={error}
+          />
         </motion.div>
 
         {/* Main Upload Feature */}
         <MainFeature onStorageUpdate={(newStats) => setStorageStats(newStats)} />
-
         {/* Features Grid */}
         <motion.div 
           className="mt-16 md:mt-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8"
