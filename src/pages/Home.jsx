@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react'
 import MainFeature from '../components/MainFeature'
 import ApperIcon from '../components/ApperIcon'
+import StorageIndicator from '../components/StorageIndicator'
 import { motion } from 'framer-motion'
 import { fileService } from '../services'
-
 export default function Home() {
   const [isDarkMode, setIsDarkMode] = useState(false)
   const [storageStats, setStorageStats] = useState({ used: 0, total: 0 })
