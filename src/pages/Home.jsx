@@ -133,10 +133,10 @@ export default function Home() {
           className="text-center mb-12 md:mb-16"
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.2 }}
+transition={{ duration: 0.8, delay: 0.2 }}
         >
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-surface-900 dark:text-surface-100 mb-4 md:mb-6">
-            Seamless File Management
+            Fast File Management
             <span className="block text-primary-600 dark:text-primary-400">
               Made Simple
             </span>
